@@ -4,3 +4,6 @@
 [submodule "repo.wiki"]
 	path = repo.wiki
 	url = https://github.com/weijenloi/repo.wiki.git
+[submodule "PythonExample"]
+	path = PythonExample
+	url = git@github.com:weijenloi/PythonExample.git
