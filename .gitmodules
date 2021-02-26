@@ -7,3 +7,6 @@
 [submodule "PythonExample"]
 	path = PythonExample
 	url = git@github.com:weijenloi/PythonExample.git
+[submodule "Just4Fun"]
+	path = Just4Fun
+	url = git@github.com:weijenloi/Just4Fun.git
