@@ -10,3 +10,6 @@
 [submodule "Just4Fun"]
 	path = Just4Fun
 	url = git@github.com:weijenloi/Just4Fun.git
+[submodule "sunday_project"]
+	path = sunday_project
+	url = git@github.com:lejen-code/sunday_project.git
